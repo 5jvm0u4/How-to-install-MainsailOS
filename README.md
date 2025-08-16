@@ -41,7 +41,7 @@ Then this:
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/8ffdd9bf-8976-48bc-b2ea-825889250c59" />  
 
 
-Follow the page but stop before "Select Settings", that select setting guide is out-of-date, follow this instead:
+Follow the page but stop before "Select Settings", that select setting guide is out-of-date, follow this instead:  
 Choose this:  
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/25511a0b-dc39-4ede-ace8-ab01de29ac9a" />
 

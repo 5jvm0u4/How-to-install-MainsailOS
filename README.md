@@ -45,20 +45,17 @@ Follow the page but stop before "Select Settings", that select setting guide is 
 Choose this:  
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/25511a0b-dc39-4ede-ace8-ab01de29ac9a" />
 
-Set the password, leave the host name and username as is unless you know what you're doing, do **NOT** configure WiFi here, it won't work.  
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/97ae1abb-2519-4ec2-8000-f398805607f3" />
+Set the password, leave the host name and username as is unless you know what you're doing, also configure WiFi here.  
+Region code for Taiwan is TW(ISO 3166-2:TW).  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/7852f8d6-723f-4f69-9db3-b0a1acb7d03a" />
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/1522aa5f-7906-4d30-9101-742ab6302a6a" />
 
 Save and click Yes  
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/b6e0784e-eaab-47fb-a36d-1eb3e3cdd3d6" />
 
 
-After finishing, remove the SD card from your computer and plug it back in, navigate to the boot drive, usually looks like this:  
-<img width="243" height="57" alt="image" src="https://github.com/user-attachments/assets/e0ce3560-dac7-43a1-97c6-68157d6bf628" />
-
-Follow the instructions in WiFi-README.txt, **LINE BY LINE** and download notepad++ or VSCode to do the file editing, do **NOT** use notepad to edit the file.   
-Region code for Taiwan is TW(ISO 3166-2:TW).  
-<img width="222" height="274" alt="image" src="https://github.com/user-attachments/assets/df2368ce-e1bb-44b4-a8cf-34fd6b0a24f9" />
+After finishing, remove the SD card from your computer and plug it into your RPI, continue to the "First boot" section.
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/7286a54b-02eb-47b0-b29e-b2262fd97dd7" />
 
 
 

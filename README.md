@@ -54,7 +54,7 @@ Save and click Yes
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/b6e0784e-eaab-47fb-a36d-1eb3e3cdd3d6" />
 
 
-After finishing, remove the SD card from your computer and plug it into your RPI, continue to the "First boot" section.  
+After finishing, remove the SD card from your computer and plug it into your RPI, continue to the "First boot" section and follow it for the rest.  
 Notice usually only access via IPv4 address will work consistantly, and also, Mainsail is unprotected, never open it to WAN unless you know what you're doing.  
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/7286a54b-02eb-47b0-b29e-b2262fd97dd7" />
 

@@ -46,7 +46,14 @@ Choose this:
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/25511a0b-dc39-4ede-ace8-ab01de29ac9a" />
 
 Set the password, leave the host name and username as is unless you know what you're doing, do **NOT** configure WiFi here, it won't work.  
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/e14ffaf2-e1e9-4c97-88c0-b50698e536a3" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/97ae1abb-2519-4ec2-8000-f398805607f3" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/1522aa5f-7906-4d30-9101-742ab6302a6a" />
+
+Save and click Yes  
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/b6e0784e-eaab-47fb-a36d-1eb3e3cdd3d6" />
+
+
+
 
 
 

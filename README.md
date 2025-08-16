@@ -1,4 +1,4 @@
-<img width="222" height="274" alt="image" src="https://github.com/user-attachments/assets/22b78331-25a2-4118-a02b-c7b463868dfd" /># How-to-install-MainsailOS
+# How-to-install-MainsailOS
 A guide documenting the processes of installing MainsailOS on a Raspberry Pi, written for internal use but made public.
 ## Introduction
 Mainsail is a web interface (front end) for klipper, that connects to klipper with an API called moonraker.
@@ -56,7 +56,8 @@ Save and click Yes
 After finishing, remove the SD card from your computer and plug it back in, navigate to the boot drive, usually looks like this:  
 <img width="243" height="57" alt="image" src="https://github.com/user-attachments/assets/e0ce3560-dac7-43a1-97c6-68157d6bf628" />
 
-Follow the instructions in WiFi-README.txt, **LINE BY LINE** and download notepad++ or VSCode to do the file editing, do **NOT** use notepad to edit the file.  
+Follow the instructions in WiFi-README.txt, **LINE BY LINE** and download notepad++ or VSCode to do the file editing, do **NOT** use notepad to edit the file.   
+Region code for Taiwan is TW(ISO 3166-2:TW).  
 <img width="222" height="274" alt="image" src="https://github.com/user-attachments/assets/df2368ce-e1bb-44b4-a8cf-34fd6b0a24f9" />
 
 

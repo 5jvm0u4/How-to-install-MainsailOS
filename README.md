@@ -58,6 +58,8 @@ After finishing, remove the SD card from your computer and plug it into your RPI
 Notice sometimes only accessing via IPv4 address will work consistantly, and also, Mainsail is unprotected, never open it to WAN unless you know what you're doing.  
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/7286a54b-02eb-47b0-b29e-b2262fd97dd7" />
 
+After finishing "First boot" section, move to How to flash klipper to BigTreeTech Octopus V1.0 for further instructions.
+
 
 
 

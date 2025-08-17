@@ -15,7 +15,7 @@ https://docs.mainsail.xyz/setup/getting-started
 
 ### For this guide you'll need the following: ###
 
- - Raspberry Pi 2/3/4/5 model B
+ - Raspberry Pi 2/3/4/5 model B (RPI 5B supported since MainsailOS 2.0.0, 2025/05/19)
  - SanDisk Extreme PRO microSDXC 32~256GB
  - MicroSD reader
  - 5V3A USB Type-C power supply

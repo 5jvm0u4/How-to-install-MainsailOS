@@ -10,8 +10,6 @@ One could install everything by it's own on a linux system, and connect everythi
 For a SBC, the latter is recommended. Credit to the [Mainsail-Crew](https://github.com/mainsail-crew)
 
 ### Reference: 
-https://docs.vorondesign.com/build/software/installing_mainsail.html
-
 https://docs.mainsail.xyz/setup/getting-started
 ## Setup
 

@@ -1,4 +1,4 @@
-# How-to-install-MainsailOS
+# How-to-install-MainsailOS-on-RPI
 A guide documenting the processes of installing MainsailOS on a Raspberry Pi, written for internal use but made public.
 ## Introduction
 Mainsail is a web interface (front end) for klipper, that connects to klipper via an API called moonraker.

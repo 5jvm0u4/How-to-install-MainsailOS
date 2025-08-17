@@ -23,12 +23,6 @@ https://docs.mainsail.xyz/setup/getting-started
  - 5V3A USB Type-C power supply
  - Internet conncetion for both your computer and the RPI, RPI 4/5B only support up to IEEE 802.11ac
 
-### For connecting via USB to slave controllers later (not covered in this guide), you'll need the following: ###
-
- - Slave controller of choice.
- - Slave controller's manual.
- - High quality USB Type-A to Type-C cable.
-
 ## Install MainsailOS
 First, open this link: https://docs.mainsail.xyz/setup/getting-started
 
